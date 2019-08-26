@@ -1,2 +1,1 @@
-# 100daysCC
-For test purpose
+1. 
